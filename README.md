@@ -20,11 +20,6 @@ Distribution of all possible combinations:
 (5,1) (5,2) (5,3) (5,4) (5,5) (5,6)  
 (6,1) (6,2) (6,3) (6,4) (6,5) (6,6)  
 
-The sums of the dice combinations arranged by their outcomes:
-
-![image](https://github.com/raji2764/Securin_Coding_Assessment/assets/114810653/e56f0498-564f-4400-ba54-cc37c5f70a9b)
-
-
 --- 3.Probability of All Possible Sums with Calculation ---
 The probability of each possible sum (2 through 12) is found by counting how many times each sum appears in the distribution above and dividing by the total number of combinations (36).
 ![image](https://github.com/raji2764/Securin_Coding_Assessment/assets/114810653/c7be27e1-1c6c-44e7-8f0f-ddc766490390)
