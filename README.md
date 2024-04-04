@@ -22,7 +22,7 @@ Distribution of all possible combinations:
 
 --- 3.Probability of All Possible Sums with Calculation ---
 The probability of each possible sum (2 through 12) is found by counting how many times each sum appears in the distribution above and dividing by the total number of combinations (36).
-![image](https://github.com/raji2764/Securin_Coding_Assessment/assets/114810653/c7be27e1-1c6c-44e7-8f0f-ddc766490390)
+![image](https://github.com/raji2764/Securin_Coding_Assessment/assets/114810653/548201d1-ae0f-40a2-87ac-5480ff7e8eca)
 
 End of Part A.
 
